@@ -1,0 +1,18 @@
+{
+  "name": "auralux-cast",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "main": "index.html",
+  "window": {
+    "title": "Auracast Control",
+    "width": 450,
+    "height": 600,
+    "resizable": false
+  }
+}
