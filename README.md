@@ -1,6 +1,6 @@
 # 🎧 Auralux Cast
 
-Auralux Cast is a **Windows-only audio caster** that captures system audio via **WASAPI loopback** and streams it using the **SRT protocol**. Whether you're building a multi-room audio setup or just want to overengineer the hell out of sending sound to your kitchen, Auralux Cast has you covered.
+Auralux Cast is a **Windows-only audio caster** that captures system audio via **WASAPI loopback** and streams it lossless using the **SRT protocol**. Whether you're building a multi-room audio setup or just want to overengineer the hell out of sending sound to your kitchen, Auralux Cast has you covered.
 
 > ⚠️ Warning: This is raw PCM over SRT. Bring your own decoder. Have a look into example :)
 
