@@ -9,7 +9,7 @@ Auralux Cast is a **Windows-only audio caster** that captures system audio via *
 - 🎯 Capture any system audio output via WASAPI (loopback)
 - 🚀 Send it over **SRT** (Secure Reliable Transport)
 - 🧰 CLI for power users and script nerds
-- 🖥️ GUI version (sleek, modern, not a WinForms disaster) in the `gui/` folder or [Release page](#📦-releases)
+- 🖥️ GUI version (sleek, modern, not a WinForms disaster) in the `gui/` folder or [Releases](https://github.com/im-tesla/auralux-cast/releases).
 - 🧪 Works perfectly with `ffplay`, `ffmpeg`, and other SRT clients
 - 🛠️ Audio format: `f32le`, stereo, 48kHz
 
@@ -17,7 +17,7 @@ Auralux Cast is a **Windows-only audio caster** that captures system audio via *
 
 ## 📦 Installation
 
-1. Download from the [Releases](https://github.com/yourusername/auralux-cast/releases).
+1. Download from the [Releases](https://github.com/im-tesla/auralux-cast/releases).
 2. Extract somewhere that won't get deleted by accident (like your soul).
 3. Run `auracast.exe` from the CLI, or open the GUI if you fear terminals.
 
