@@ -148,11 +148,6 @@ int main(int argc, char* argv[]) {
                 break;
             }
         }
-
-        if (GetAsyncKeyState(VK_ESCAPE) & 0x8000) {
-            std::cout << "Escape key pressed, stopping transmission...\n";
-            break;
-        }
     }
 
     wasapi.Stop();
